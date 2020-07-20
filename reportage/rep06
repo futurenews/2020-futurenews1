@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <title>미래뉴스실습</title>
+
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <style type="text/css">
+
+    .jumbotron{
+      margin-top: 20px;
+      background-image: url("img/withnewstapa.png");
+      background-size: cover;
+      color: white;
+    }
+    </style>
+  </head>
+  <body>
+
+    <!-- Site Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <a class="navbar-brand"><small> 서울대학교 언론정보학과 | 미래뉴스실습 </small></a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active"><a class="nav-link" href="../index.html">전체보기</a></li>
+          <li class="nav-item"><a class="nav-link" href="../reportage/reportage.html">기획기사</a></li>
+          <li class="nav-item"><a class="nav-link" href="../class/class.html">수업소개</a></li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">지난수업</a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="https://futurenews.github.io/2017-futurenews2/" target='_blank'>2017-2학기 미래뉴스실습 II</a>
+              <a class="dropdown-item" href="https://futurenews.github.io/2018-futurenews1/" target='_blank'>2018-1학기 미래뉴스실습 I</a>
+              <a class="dropdown-item" href="https://futurenews.github.io/2018-futurenews2/" target='_blank'>2018-2학기 미래뉴스실습 II</a>
+              <a class="dropdown-item" href="https://futurenews.github.io/2019-futurenews1/" target='_blank'>2019-1학기 미래뉴스실습 I</a>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </nav>
+    <!-- End of Site Navigation -->
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+    <p class="text-center">
+      <h3 class="text-center"> <b>코로나 19 시대, ‘사회적 나’와 거리두기</b> </h3>
+      <h4 class="text-center"> <b>눈치보지 않고 자유롭게··· 취미를 가지게 된 대학생들</b> </h4>
+      <h5 align="right"> 김민지 </h5>
+    </p>
+    </div>
+  </div>
+
+  <hr class="primary">
+
+
+  <div class="row">
+    <div class="col-md-12">
+      <p>
+        <br>작년 12월 말 우한폐렴으로 처음 보도되었던 코로나 19는, 세계적 대유행이 되어 3월 11일 WHO(세계보건기구)의 팬데믹(감염병 최고 경고 등급으로, 세계적으로 감염병이 대유행하는 상태) 선언까지 이르렀다. 코로나가 가져온 변화 중 가장 뚜렷한 징후는 ‘언택트(untact)’의 부상이다. 코로나가 확산되면서, 재택근무가 급속도로 대중화되었고, 학생들은 유례없는 ‘전면 사이버강의 시행’에 맞닥뜨렸다. 사이버강의가 시행된 지 석달째, 이제 학생들은 자연스럽게 수업시간이 되면 줌(화상회의 앱)을 켜고 컴퓨터 앞에 앉아 수업을 듣는다. 그들이 공통적으로 말하는 비대면 사회의 최대 장점은 ‘시간 절약’이다.
+      </p>
+      <p>
+        사이버강의/재택근무 시행과 함께, 정부가 지역사회 감염 차단을 위해 권고한 ‘사회적 거리두기’를 실천하면서, 사회적 활동량이 많았던 20대들이 이전보다 집에서 보내는 시간이 늘었다. 수업이나 출퇴근을 위한 이동 시간이 줄어들어 시간적 여유가 생기면서 그들은 해야 할 일이 아닌 하고 싶었던 일에 도전하기 시작했다. 모임·약속 등이 취소되면서 불필요한 인간관계를 유지하기 위해 쏟던 에너지를 본인 스스로와 더 소중한 사람들에게 쏟을 수 있게 되었다. 
+      </p>
+      <p>
+        코로나 시대, 전염을 막기 위해 빠르게 정착한 ‘언택트(기술의 발전을 통해 직접적인 대면 없이 서비스와 제품을 구매하는 것) 문화’는 첨단 기술 활용에 익숙한 20대들에게 오히려 예상치 못한 새로운 기회를 열어주고 있다. ‘사회적 나’와 잠시 거리를 두고 나 스스로를 위해 보낸 시간들. 이 시간들이 그들의 가치관과 앞으로 살아갈 새로운 사회에 어떠한 영향을 미칠까?
+      </p>
+      <p>
+        대학생 조 모(23)씨는 4월에 ‘코로나블루’를 겪었다고 한다. 코로나블루는 '코로나19'와 '우울감(blue)'이 합쳐진 신조어로, 코로나19 확산으로 일상에 큰 변화가 닥치면서 생긴 우울감이나 무기력증을 뜻한다. “대학교 4학년이라 취업을 준비하고 있었는데, 시험도 줄줄이 취소되고 그나마 합격한 회사 면접 날짜도 계속 미뤄지고, 자유롭게 (바깥에) 나가지도 못하고 나도 모르는 새 우울해졌던 것 같아요.” “어느 날 보니 제가 하루 종일 누워만 있더라고요. 활동량이 줄어드니까 살도 찌고 건강이 안 좋아지는 게 느껴졌어요. 이러면 안 되겠다는 생각이 들었죠.” 그날부터 조 씨는 유튜브를 보며 ‘홈 트레이닝’을 시작했다. 홈 트레이닝은 헬스장이나 수영장 등 운동 시설이 아닌 가정에서 할 수 있는 간단한 운동이다. “따로 돈이 들지도 않고, 제가 편한 시간에 남들 눈치 보지 않고 할 수 있어서 (좋아요). 홈 트레이닝을 시작하고 나서 건강해졌고, 제 몸이 변화하는 모습을 보면서 자신감도 생겼어요.” 코로나 이후에도 계속 홈 트레이닝을 할 예정이냐는 질문에 조 씨는 그렇다고 답했다. “‘바디 프로필 사진 찍기’라는 새로운 목표가 생겼거든요. 제가 노력해서 만든 인생에서 가장 예뻤던 몸을 기록으로 남겨보고 싶어요.”
+      </p>
+      <p>
+        조 씨가 애용하는 홈 트레이닝 유튜브 채널은 “Thankyou BUBU(땅끄부부)”다. 이 채널은 실제 부부가 운영하고 있는 채널로, 친근한 분위기와 따라하기 쉬운 맨몸 동작을 중심으로 쉽게 설명하여 홈 트레이닝 초보들에게 인기가 많다. 2015년 2월에 개설된 땅끄부부 채널은 올해 초에도 약 177만 명의 구독자를 가진 인기 채널이었지만, 코로나 이후 구독자가 급격히 늘어 현재 구독자 수가 약 227만 명이다. 땅끄부부 채널의 인기영상 중 하나인 ‘무.조.건! 뱃살 빠지는 운동 베스트5’ 영상의 조회수는 6월 25일 기준 약 1,513만회이다.
+      </p>
+      <p>
+        대학생 이승민(23) 씨는 코로나 이후 취미로 작곡 공부를 시작했다. “평소에도 너무 (작곡을) 배워보고 싶었는데 그동안 시간이 안 나서 못 배웠는데, 이번에 3월부터 작곡을 배우기 시작했어요.” 이 씨는 “혼자만의 시간이 늘어나 배우고 싶었던 새로운 것을 배우니 삶의 질이 높아진 기분”이라며 “온라인 클래스로 쉽게 도전해 볼 수 있었다”고 말했다.
+      </p>
+      <p>
+        승민씨는 온라인 클래스 플랫폼 ‘클래스 101’을 활용하여 작곡을 배우고 있다. ‘클래스 101(대표 고지연)’은 온라인 취미 클래스 서비스로 ‘모두가 사랑하는 일을 하며 사는 것’을 비전으로 삼고 있다. 사용자들이 취미에 쉽게 입문할 수 있도록 온라인 강의뿐만 아니라 준비물 키트까지 어플리케이션에서 간편하게 구매할 수 있다. 또한 전문성을 높인 시그니처 클래스에서는 외식 사업으로 유명한 방송인 홍석천, 마술사 최현우, 격투기 선수 김동현, 유명 유튜브 영상제작자 대도서관, 프로듀서 그레이 등 유명인들의 전문 분야 강좌를 들을 수 있다. ‘클래스 101’에서 인기 있는 클래스 카테고리는 미술, 디지털 드로잉, 사진·영상 편집, 공예, 요리, 음악 등이다.
+      </p>
+      
+<br>
+<div>
+  <img src="img/rep06-1.png" style= "width:90%; margin-left:5%"/>
+</div>
+<p class="text-center">
+  <span style ="color:grey">
+  <font size = "2">
+    <사진 1> 클래스 101 신규 설치자 수, 설치자 수, 월간 활성 사용자 수 (출처: TDI) </font> </span>
+</p>
+<br>
+
+      <p>
+        빅데이터 플랫폼 기업 TDI(티디아이)에 따르면 코로나19 여파가 본격적으로 사람들의 생활에 영향을 미치기 시작한 2월부터 5월까지의 클래스101 설치자 수를 분석한 결과, 2월 24만 7600명에서 5월 32만 5400명으로 꾸준히 상승했다. 신규 설치자도 마찬가지로 2월 2만2700명에서 5월 6만 1700명으로 급증했다. 월간 활성 사용자 수는 2월 10만 800명에서 3월 잠시 주춤했지만 4월부터 다시 상승하여 5월 16만 7500명을 달성했다.
+      </p>
+      <p>
+        대학생 이민정(23) 씨는 BTS(방탄소년단)의 팬이다. 그녀는 지난 14일 방탄소년단의 콘서트를 관람했다. 장소는 자신의 방 안 침대였다. “새로운 느낌이었죠. 콘서트 같기도 하면서 유튜브 영상 보는 것 같기도 했어요.”
+      </p>
+      <p>
+        빅히트엔터테인먼트는 지난 4월 18일과 19일 양일간 유튜브 방탄소년단 공식 채널에서 '방방콘'(방에서 즐기는 방탄소년단 콘서트)을 진행했다. 당시 224만 명의 동시 접속자가 모였다. 그리고 지난 6월 14일 18시, 빅히트는 BTS 7주년을 맞아 '방방콘'의 새로운 라이브 버전인 '방방콘 더 라이브'를 진행했다. '방방콘 더 라이브'는 커뮤니티 플랫폼 위버스를 통해 라이브 스트리밍으로 콘서트를 생중계하는 방식이었다. 콘서트 가격은 공식 팬클럽 회원은 한화 29,000원 비회원은 39,000원이었다. 이날 콘서트에는 107개국 75만 6600여 명(최다 동시접속자 수)이 몰렸다.
+      </p>
+      <p>
+        SM엔터테인먼트도 ‘비욘드 라이브’라는 온라인 콘서트를 개최했다. 지난 4월 26일부터 5월 31일까지 매주 일요일 오후 3시 네이버 브이라이브를 통해 총 6팀(슈퍼엠·웨이션브이·NCT 드림·NCT 127·동방신기·슈퍼주니어)이 공연을 진행했다.
+      </p>
+
+<br>
+<div>
+  <img src="img/rep06-2.png" style= "width:70%; margin-left:15%"/>
+</div>
+<p class="text-center">
+  <span style ="color:grey">
+  <font size = "2">
+    <사진 2> ‘비욘드 라이브’ 캡처 </font> </span>
+</p>
+<br>
+
+      <p>
+        온라인 스트리밍 콘서트는 공연을 다각도로 볼 수 있는 ‘멀티뷰 서비스’나 공연에 맞게 실시간으로 응원봉을 연동하는 '응원봉 싱크플레이 서비스'를 제공하는 것이 특징이다. 또한 AR 그래픽과 같은 최첨단 기술을 활용하여 오프라인 공연에서 느낄 수 없는 새로운 경험을 제공하기도 한다. 한편 빅히트엔터테인먼트는 마치 오프라인 콘서트를 볼 때처럼 본인의 이름이 들어간 티켓을 제공하여 팬들에게 심리적으로 오프라인 공연과 같은 경험을 줄 수 있도록 준비했다.
+      </p> 
+      <p>
+        민정씨는 ‘비대면 온라인 유로 콘서트’의 장점으로 오프라인 콘서트보다 싼 가격과 집에서 편하게 관람할 수 있다는 점을 뽑았다. “비대면이 아니었다면 아마 시간이 맞지 않아 관람하러 가지 못했을지도 몰라요. 그날 오전에 수업이 있었거든요. 평소에 콘서트 한 번 다녀오면 하루 종일 서 있어야 하고 엄청 피곤했는데 온라인으로 관람하니 엄청 편했어요.”
+      </p>
+      <p>
+        한편 생생함은 아직 부족하다고 이야기하기도 했다. “뭔가 유튜브 영상 보는 느낌? 라이브 스트리밍이라고는 하지만 영상으로 보다 보니 콘서트 현장의 생생함은 부족했던 것 같아요.” 민정씨는 대신 “다시보기를 할 수 있다는 점, 멤버 한명 한명 놓치는 장면없이 볼 수 있다는 점이 좋았다”고 말했다.
+      </p>
+      <p>
+        코로나 19 시대, 빠르게 정착한 ‘언택트 문화’ 덕분에 ‘사회적 나’와 거리를 두고 혼자 집에서 보내는 시간을 만끽하면서 많은 대학생들이 자신만의 취미를 찾아가고 전보다 풍부하게 문화생활을 즐기고 있다. 새로운 취미는 그들에게 소소한 달성의 기쁨을 안겨주고, 자신감을 길러주며 스트레스 해소에 도움을 준다. 일부는 취미를 통해 20대에 새로운 목표와 가치관을 찾기도 한다.
+      </p>
+<br><br>
+  
+</div>
+    <!-- end div for container -->
+
+    <!-- 이 아래부터는 무시하세요! -->
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+  </body>
+</html>
